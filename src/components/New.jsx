@@ -1,5 +1,9 @@
 const New = function () {
-  return <></>
+  return (
+    <>
+      <h1>ciao</h1>
+    </>
+  )
 }
 
 export default New
